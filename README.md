@@ -24,7 +24,6 @@ mvn spring-boot:run
 
 ```bash
 cd cgi_flight_planner/frontend
-npm install
 npm run dev
 ```
 
